@@ -1,0 +1,9 @@
+.navbar{
+    min-height: 75px;
+    border-bottom: solid 1px rgb(44,68,91);
+}
+
+.nav-link{
+    font-family: 'Oswald', sans-serif;
+}
+

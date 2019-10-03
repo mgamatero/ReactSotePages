@@ -1,0 +1,19 @@
+* {
+    /* color: rgb(214, 206, 196); */
+    /* background-color: red; */
+}
+
+.fixed{
+    flex: 0 0 300px;
+}
+
+.pagetitle ,.back-icon{
+    padding:4px;
+    color: rgb(35,55,71);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+}
+
+.jobcardheader{
+    border-bottom: 2px solid rgb(35,55,71);
+}

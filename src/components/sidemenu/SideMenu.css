@@ -1,0 +1,31 @@
+.sidemenu{
+    background-color: rgb(35,55,71);
+    z-index: 999;
+    border: solid 1px;
+    min-height: 100vh;
+    font-family: 'Oswald', sans-serif;
+}
+
+.list-group-item{
+    background-color: rgb(35,55,71);
+    border: solid 1px rgb(52,52,52);
+}
+
+
+.list-group-item, a{
+    color:rgb(153,153,153);
+}
+
+
+.list-group-item a:hover{
+    color:white;
+    cursor: pointer;
+}
+
+.list-group-item:hover{
+    border-left:rgb(239,81,31) solid 2px;
+    padding-left:-2px;
+}
+
+
+
